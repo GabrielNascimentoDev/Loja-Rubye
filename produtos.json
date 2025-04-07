@@ -1,0 +1,306 @@
+[
+  {
+    "id": "camiseta-pace-terrain",
+    "nome": "CAMISETA PACE TERRIAN",
+    "preco": "259,90",
+    "imagem": "./assets/camisetas/pace terrain.webp",
+    "thumbnails": [
+      "./assets/thumbnails/camisetas/tb terrain 1.webp",
+      "./assets/thumbnails/camisetas/TB terrain 2.webp",
+      "./assets/thumbnails/camisetas/tb terrain 3.webp"
+    ],
+    "descricao": "Camiseta com modelagem Regular confeccionada em 100% algodão",
+    "detalhes": [
+      "Material: 100% Algodão",
+      "Cor: Washed Black",
+      "Aviamentos: Gorgorão personalizado PACE / Cabo de aço removível"
+    ],
+    "medidas": "./assets/jaquetas/Medidas_Alien_High__OUS_T-Shirt_Black_TS644.01.png",
+    "tamanho": ["XS", "S", "M", "L", "XL"]
+  },
+
+  {
+    "id": "2",
+    "nome": "CAMISETA PACE CHLADNI",
+    "preco": "259,90",
+    "imagem": "./assets/camisetas/pace chladni.webp",
+    "thumbnails": [
+      "./assets/thumbnails/camisetas/tb chaldni 1.jpg",
+      "./assets/thumbnails/camisetas/tb chaldni 2.jpg",
+      "./assets/thumbnails/camisetas/tb chaldni 3.jpg",
+      "./assets/thumbnails/camisetas/tb chaldni 4.jpg"
+    ],
+    "descricao": "Modelagem: Camiseta com modelagem Oversized confeccionada em 100% algodão ",
+    "detalhes": [
+      "Material: 100% Algodão",
+      "Cor: Off White",
+      "Aviamentos: Gorgorão personalizado PACE / Cabo de aço removível"
+    ],
+    "medidas": "./assets/jaquetas/Medidas_Alien_High__OUS_T-Shirt_Black_TS644.01.png",
+    "tamanho": ["XS", "S", "M", "L", "XL"]
+  },
+
+  {
+    "id": "3",
+    "nome": "CAMISETA PACE GRID MOON",
+    "preco": "259,90",
+    "imagem": "./assets/camisetas/pace grid.webp",
+    "thumbnails": [
+      "./assets/thumbnails/camisetas/tb grid 1.jpg",
+      "./assets/thumbnails/camisetas/tb grid 2.jpg",
+      "./assets/thumbnails/camisetas/tb grid 3.jpg",
+      "./assets/thumbnails/camisetas/tb grid 4.jpg"
+    ],
+    "descricao": "Modelagem: Camiseta com modelagem Oversized confeccionada em 100% algodão ",
+    "detalhes": [
+      "Material: 100% Algodão",
+      "Cor: Washed Black",
+      "Aviamentos: Gorgorão personalizado PACE / Cabo de aço removível"
+    ],
+    "medidas": "./assets/jaquetas/Medidas_Alien_High__OUS_T-Shirt_Black_TS644.01.png",
+    "tamanho": ["XS", "S", "M", "L", "XL"]
+  },
+
+  {
+    "id": "4",
+    "nome": "CAMISETA PACE PELICAN",
+    "preco": "259,90",
+    "imagem": "./assets/camisetas/pace pelican.webp",
+    "thumbnails": [
+      "./assets/thumbnails/camisetas/tb pelican 1.jpg",
+      "./assets/thumbnails/camisetas/tb pelican 2.jpg",
+      "./assets/thumbnails/camisetas/tb pelican 3.jpg",
+      "./assets/thumbnails/camisetas/tb pelican 4.jpg"
+    ],
+    "descricao": "Modelagem: Camiseta com modelagem Oversized confeccionada em 100% algodão ",
+    "detalhes": [
+      "Material: 100% Algodão",
+      "Cor: Black",
+      "Aviamentos: Gorgorão personalizado PACE / Cabo de aço removível"
+    ],
+    "medidas": "./assets/jaquetas/Medidas_Alien_High__OUS_T-Shirt_Black_TS644.01.png",
+    "tamanho": ["XS", "S", "M", "L", "XL"]
+  },
+
+  {
+    "id": "5",
+    "nome": "CALÇA PACE THAT 70`s CARGO",
+    "preco": "349,90",
+    "imagem": "./assets/calcas/calca preta.webp",
+    "thumbnails": [
+      "./assets/thumbnails/calcas/tb 70 1.webp",
+      "./assets/thumbnails/calcas/tb 70 2.webp"
+    ],
+    "descricao": "Calça pace that 70's traz um visual de alfaiataria com um design moderno ",
+    "detalhes": [
+      "Material: Canvas 99% Algodão 1% Elastano",
+      "Cor: Black",
+      "Aviamentos: Zíper YKK duplo / Rebites industriais PACE/Fivelas personalizadas PACE em metal fosco prateado",
+      "Bolsos laterais e traseiro"
+    ],
+    "medidas": "./assets/jaquetas/medidas calca.png",
+    "tamanho": ["38", "40", "42", "44", "46", "48"]
+  },
+
+  {
+    "id": "6",
+    "nome": "SWEATPANTS CLASS PALADIO BLACK & GREY",
+    "preco": "439,90",
+    "imagem": "./assets/calcas/calca moletom cinza.png",
+    "thumbnails": [
+      "./assets/thumbnails/calcas/tb paladio 3.webp",
+      "./assets/thumbnails/calcas/tb paladio 2.webp",
+      "./assets/thumbnails/calcas/tb paladio1.webp"
+    ],
+    "detalhes": [
+      "Material: 100% ALGODÃO / COTTON",
+      "Cor: Black & GREY",
+      "Bolsos laterais"
+    ],
+    "medidas": "./assets/jaquetas/medidas calca.png",
+    "tamanho": ["38", "40", "42", "44", "46", "48"]
+  },
+
+  {
+    "id": "7",
+    "nome": "CALÇA CLASSIC JEANS CLASS",
+    "preco": "439,90",
+    "imagem": "./assets/calcas/calca preta class.webp",
+    "thumbnails": [
+      "./assets/thumbnails/calcas/tb classic 1.webp",
+      "./assets/thumbnails/calcas/tb classic 2.webp",
+      "./assets/thumbnails/calcas/tb classic 3.webp"
+    ],
+    "detalhes": [
+      "Material: 100% ALGODÃO / COTTON",
+      "Cor: Black",
+      "Aviamentos: YKK ZIPPER"
+    ],
+    "medidas": "./assets/jaquetas/medidas calca.png",
+    "tamanho": ["38", "40", "42", "44", "46", "48"]
+  },
+
+  {
+    "id": "8",
+    "nome": "BERMUDA CLASS INVERSO",
+    "preco": "319,90",
+    "imagem": "./assets/calcas/shorts class.webp",
+    "thumbnails": [
+      "./assets/thumbnails/calcas/tb bermuda class 1.webp",
+      "./assets/thumbnails/calcas/tb bermuda class 2.webp"
+    ],
+    "detalhes": [
+      "Material: 100% POLIAMIDA / 100% NYLON    ",
+      "Cor: Black",
+      "Aviamentos: BORDADO / EMBROIDERED LOGO"
+    ],
+    "medidas": "./assets/jaquetas/medidas shorts.png",
+    "tamanho": ["S", "M", "L", "XL"]
+  },
+
+  {
+    "id": "9",
+    "nome": "CANGURU PACE",
+    "preco": "599,90",
+    "imagem": "./assets/jaquetas/moletom pace cinza.webp",
+    "thumbnails": [
+      "./assets/thumbnails/jaquetas/tb canguru pace 1.webp",
+      "./assets/thumbnails/jaquetas/tb canguru pace 2.webp"
+    ],
+    "detalhes": [
+      "Material: 100% Algodão pesado",
+      "Cor: Grey",
+      "Aviamentos: Zíper YKK / Gorgorão em jacquard PACE / Cabo de aço removível"
+    ],
+    "medidas": "./assets/jaquetas/medidas jaquetas.png",
+    "tamanho": ["XS", "S", "M", "L", "XL"]
+  },
+
+  {
+    "id": "10",
+    "nome": "JAQUETA PACE",
+    "preco": "599,90",
+    "imagem": "./assets/jaquetas/jaqueta branca pace.webp",
+    "thumbnails": [
+      "./assets/thumbnails/jaquetas/tb jaqueta pace 1.webp",
+      "./assets/thumbnails/jaquetas/tb jaqueta pace 2.webp"
+    ],
+    "detalhes": [
+      "Material: 100% Algodão pesado",
+      "Cor: White",
+      "Aviamentos: Zíper YKK / Gorgorão em jacquard PACE / Cabo de aço removível"
+    ],
+    "medidas": "./assets/jaquetas/medidas jaquetas.png",
+    "tamanho": ["XS", "S", "M", "L", "XL"]
+  },
+
+  {
+    "id": "11",
+    "nome": "CAMISETA PIET X OAKLEY",
+    "preco": "439,90",
+    "imagem": "./assets/camisetas/camiseta piet oak.webp",
+    "thumbnails": [
+      "./assets/thumbnails/camisetas/tb piet x oak.jpg ",
+      "./assets/thumbnails/camisetas/tb piet x oak 2.jpg",
+      "./assets/thumbnails/camisetas/tb piet x oak 3.jpg",
+      "./assets/thumbnails/camisetas/tb piet x oak 4.jpg",
+      "./assets/thumbnails/camisetas/tb piet x oak 5.jpg",
+      "./assets/thumbnails/camisetas/tb piet x oak 6.jpg"
+    ],
+    "detalhes": ["Material: 100% ALGODÃO", "Cor: Off White"],
+    "medidas": "./assets/jaquetas/Medidas_Alien_High__OUS_T-Shirt_Black_TS644.01.png",
+    "tamanho": ["XS", "S", "M", "L", "XL"]
+  },
+
+  {
+    "id": "12",
+    "nome": "CALÇA PIET LOOSE FIT",
+    "preco": "349,90",
+    "imagem": "./assets/calcas/calca piet jeans.webp",
+    "thumbnails": [
+      "./assets/thumbnails/calcas/tb piet loose 1.jpg ",
+      "./assets/thumbnails/calcas/tb piet loose 2.jpg"
+    ],
+    "detalhes": [
+      "Material: 100% Algodão",
+      "Cor: Black",
+      "Modelagem reta",
+      "Bolsos laterais e traseiro"
+    ],
+    "medidas": "./assets/jaquetas/medidas calca.png",
+    "tamanho": ["38", "40", "42", "44", "46", "48"]
+  },
+
+  {
+    "id": "13",
+    "nome": "CAMISETA CLASS ICE PRETO",
+    "preco": "219,90",
+    "imagem": "./assets/camisetas/camiseta class ice.webp",
+    "thumbnails": [
+      "./assets/camisetas/camiseta class ice.webp ",
+      "./assets/camisetas/camiseta class ice 2.webp"
+    ],
+    "detalhes": [
+      "Material: 100% Algodão",
+      "Cor: Black",
+      "Estampa Digital",
+      "Bordado"
+    ],
+    "medidas": "./assets/jaquetas/Medidas_Alien_High__OUS_T-Shirt_Black_TS644.01.png",
+    "tamanho": ["XS", "S", "M", "L", "XL"]
+  },
+
+  {
+    "id": "14",
+    "nome": "JAQUETA CLASS RUGBY BETON BRUT",
+    "preco": "439,90",
+    "imagem": "./assets/jaquetas/jaqueta class rugby.jpg",
+    "thumbnails": [
+      "./assets/jaquetas/jaqueta class rugby.jpg ",
+      "./assets/jaquetas/jaqueta class rugby back.webp",
+      "./assets/jaquetas/jaqueta class rugy 3.webp"
+    ],
+    "detalhes": [
+      "Material: 50% Algodão , 50% POLIÉSTER",
+      "Cor: Gray",
+      "Bordado"
+    ],
+    "medidas": "./assets/jaquetas/Medidas_Alien_High__OUS_T-Shirt_Black_TS644.01.png",
+    "tamanho": ["XS", "S", "M", "L", "XL"]
+  },
+
+  {
+    "id": "15",
+    "nome": "CAMISETA CLASS PARADISE",
+    "preco": "219,90",
+    "imagem": "./assets/camisetas/camiseta class pradise.webp",
+    "thumbnails": [
+      "./assets/camisetas/camiseta class pradise.webp",
+      "./assets/camisetas/camiseta class pradise back.webp",
+      "./assets/camisetas/camiseta class paradise 3.webp"
+    ],
+    "detalhes": ["Material: 100% Algodão", "Cor: Black", "Bordado"],
+    "medidas": "./assets/jaquetas/Medidas_Alien_High__OUS_T-Shirt_Black_TS644.01.png",
+    "tamanho": ["XS", "S", "M", "L", "XL"]
+  },
+
+  {
+    "id": "16",
+    "nome": "CALCA CLASS CLASSIC JENNS STONEWASHED",
+    "preco": "499,90",
+    "imagem": "./assets/calcas/calca classs stone.webp",
+    "thumbnails": [
+      "./assets/calcas/calca classs stone.webp",
+      "./assets/calcas/calca class back.webp",
+      "./assets/calcas/calca class 3.webp"
+    ],
+    "detalhes": [
+      "Material: 100% Algodão",
+      "Cor: Indigo",
+      "Bordado",
+      "YKK ZIPPER "
+    ],
+    "medidas": "./assets/jaquetas/medidas calca.png",
+    "tamanho": ["38", "40", "42", "44", "46", "48"]
+  }
+]

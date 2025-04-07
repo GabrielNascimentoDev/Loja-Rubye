@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="./styles/header.css" />
+    <link rel="stylesheet" href="styles/main.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bodoni+Moda+SC:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Jaini&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+      integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
+
+    <title>RUBYE</title>
+  </head>
+  <body>
+    <header class="cabecalho">
+      <div class="header_icons">
+        <a href="*">
+          <i class="fa-brands fa-instagram fa2x"></i>
+        </a>
+        <a href="*">
+          <i class="fa-brands fa-tiktok fa2x"></i>
+        </a>
+        <a href="*">
+          <i class="fa-brands fa-whatsapp fa2x"></i>
+        </a>
+      </div>
+
+      <a href="index.html" class="header_logo">RUBYE</a>
+
+      <div class="header_infos">
+        <a href="index.html" class="shop">shop</a>
+        <a href="info.html" class="info">info</a>
+        <a href="contact.html" class="contact">contact</a>
+        <a href="cart.html" class="cart"
+          ><img
+            src="./assets/icons//carrinho-de-compras.png"
+            alt="carrinho de compras"
+            width="25px"
+        /></a>
+        <a href="login.html" class="login" target="_top">
+          <img src="./assets/icons/do-utilizador.png" width="25px" />
+        </a>
+      </div>
+    </header>
+
+    <main>
+      <div class="slider">
+        <div class="slides">
+          <input type="radio" name="radio-btn" id="radio1" />
+          <input type="radio" name="radio-btn" id="radio2" />
+          <input type="radio" name="radio-btn" id="radio3" />
+          <input type="radio" name="radio-btn" id="radio4" />
+
+          <div class="slide first">
+            <img src="./assets/camisetas/class slide.webp" alt="slide class" />
+          </div>
+          <div class="slide">
+            <img src="./assets/camisetas/slide 1of1.webp" alt="slide pace" />
+          </div>
+          <div class="slide">
+            <img src="./assets/camisetas/slide 2.webp" alt="slide pace" />
+          </div>
+          <div class="slide">
+            <img src="./assets/camisetas/slide 4.webp" alt="slide pace" />
+          </div>
+
+          <div class="navigation-auto">
+            <div class="auto-btn1"></div>
+            <div class="auto-btn2"></div>
+            <div class="auto-btn3"></div>
+            <div class="auto-btn4"></div>
+          </div>
+        </div>
+
+        <div class="manual-navigation">
+          <label for="radio1" class="manual-btn"></label>
+          <label for="radio2" class="manual-btn"></label>
+          <label for="radio3" class="manual-btn"></label>
+          <label for="radio4" class="manual-btn"></label>
+        </div>
+      </div>
+
+      <div class="produtos-capa">
+        <div class="roupa_pace_container">
+          <a href="produto.html?id=camiseta-pace-terrain">
+            <img
+              src="assets/camisetas/camiseta pace2.webp"
+              alt="camiseta pace branca"
+              class="roupa_pace_hip_img"
+            />
+            <img
+              src="assets/camisetas/pace terrain.webp"
+              alt="camiseta pace terrain"
+              class="hover-grid"
+            />
+            <p class="camiseta_texto">CAMISETA PACE TERRAIN</p>
+            <p class="camiseta_texto">R$ 259,90</p>
+          </a>
+        </div>
+
+        <div class="roupa_pace_container">
+          <a href="produto.html?id=2">
+            <img
+              src="assets/camisetas/pace.webp"
+              alt="camiseta pace preta"
+              class="roupa_pace_terror_img"
+            />
+            <img
+              src="assets/camisetas/pace chladni.webp"
+              alt="camiseta pace branca"
+              class="hover-grid"
+            />
+            <p class="camiseta_texto">CAMISETA PACE CHLADNI</p>
+            <p class="camiseta_texto">R$ 259,90</p>
+          </a>
+        </div>
+
+        <div class="roupa_pace_container">
+          <a href="produto.html?id=3">
+            <img
+              src="assets/camisetas/camiseta pace 4.webp"
+              alt="camiseta pace preta"
+              class="roupa_pace_grid_img"
+            />
+            <img
+              src="assets/camisetas/pace grid.webp"
+              alt="imagem hover"
+              class="hover-grid"
+            />
+            <p class="camiseta_texto">CAMISETA PACE GRID MOON</p>
+            <p class="camiseta_texto">R$ 259,90</p>
+          </a>
+        </div>
+
+        <div class="roupa_pace_container">
+          <a href="produto.html?id=4">
+            <img
+              src="assets/camisetas/camiseta pace 5.webp"
+              alt="camiseta pace preta"
+            />
+            <img
+              src="assets/camisetas/pace pelican.webp"
+              alt="camiseta pelican"
+              class="hover-grid"
+            />
+            <p class="camiseta_texto">CAMISETA PACE PELICAN</p>
+            <p class="camiseta_texto">R$ 259,90</p>
+          </a>
+        </div>
+
+        <div class="roupa_pace_container">
+          <a href="produto.html?id=5">
+            <img src="assets/calcas/calca preta.webp" alt="calca preta" />
+            <img
+              src="assets/calcas/calca rpeta costas.webp"
+              alt="calca preta"
+              class="hover-grid"
+            />
+            <p class="camiseta_texto">CALÇA PACE THAT 70`s CARGO</p>
+            <p class="camiseta_texto">R$ 349,90</p>
+          </a>
+        </div>
+
+        <div class="roupa_pace_container">
+          <a href="produto.html?id=6">
+            <img
+              src="assets/calcas/calca moletom cinza.png"
+              alt="calca preta"
+            />
+            <img
+              src="assets/calcas/calca moletom cinza costas.png"
+              alt="calca preta"
+              class="hover-grid"
+            />
+            <p class="camiseta_texto">
+              SWEATPANTS CLASS "PALADIO" BLACK & GREY
+            </p>
+            <p class="camiseta_texto">R$ 439,90</p>
+          </a>
+        </div>
+
+        <div class="roupa_pace_container">
+          <a href="produto.html?id=7">
+            <img src="assets/calcas/calca preta class.webp" alt="calca preta" />
+            <img
+              src="assets/calcas/calca class preta costas.webp"
+              alt="calca preta"
+              class="hover-grid"
+            />
+            <p class="camiseta_texto">CALÇA CLASS CLASSIC JEANS</p>
+            <p class="camiseta_texto">R$ 499,90</p>
+          </a>
+        </div>
+
+        <div class="roupa_pace_container">
+          <a href="produto.html?id=8">
+            <img src="assets/calcas/shorts class.webp" alt="calca preta" />
+            <img
+              src="assets/calcas/shorts class costas.webp"
+              alt="calca preta"
+              class="hover-grid"
+            />
+            <p class="camiseta_texto">BERMUDA CLASS INVERSO</p>
+            <p class="camiseta_texto">R$ 319,90</p>
+          </a>
+        </div>
+
+        <div class="roupa_pace_container">
+          <a href="produto.html?id=9">
+            <img
+              src="assets/jaquetas/moletom pace cinza.webp"
+              alt="calca preta"
+            />
+            <img
+              src="assets/jaquetas/moletom pace cinza costas.webp"
+              alt="calca preta"
+              class="hover-grid"
+            />
+            <p class="camiseta_texto">CANGURU PACE</p>
+            <p class="camiseta_texto">R$ 599,90</p>
+          </a>
+        </div>
+
+        <div class="roupa_pace_container">
+          <a href="produto.html?id=10">
+            <img
+              src="assets/jaquetas/jaqueta branca pace.webp"
+              alt="calca preta"
+            />
+            <img
+              src="assets/jaquetas/jaqueta branca pace costas.webp"
+              alt="calca preta"
+              class="hover-grid"
+            />
+            <p class="camiseta_texto">JAQUETA PACE</p>
+            <p class="camiseta_texto">R$ 599,90</p>
+          </a>
+        </div>
+
+        <div class="roupa_pace_container">
+          <a href="produto.html?id=11">
+            <img
+              src="assets/camisetas/camiseta piet oak.webp"
+              alt="calca preta"
+            />
+            <img
+              src="assets/camisetas/camiseta piet oak costas.webp"
+              alt="calca preta"
+              class="hover-grid"
+            />
+            <p class="camiseta_texto">CAMISETA PIET X OAKLEY BAILE</p>
+            <p class="camiseta_texto">R$ 349,90</p>
+          </a>
+        </div>
+
+        <div class="roupa_pace_container">
+          <a href="produto.html?id=12">
+            <img src="assets/calcas/calca piet jeans.webp" alt="calca preta" />
+            <img
+              src="assets/calcas/calca piet jeans costas.webp"
+              alt="calca preta"
+              class="hover-grid"
+            />
+            <p class="camiseta_texto">CALÇA PIET LOOSE FIT</p>
+            <p class="camiseta_texto">R$ 349,90</p>
+          </a>
+        </div>
+
+        <div class="roupa_pace_container">
+          <a href="produto.html?id=13">
+            <img
+              src="assets/camisetas/camiseta class ice.webp"
+              alt="calca preta"
+            />
+            <img
+              src="assets/camisetas/camiseta class ice 2.webp"
+              alt="calca preta"
+              class="hover-grid"
+            />
+            <p class="camiseta_texto">CAMISETA CLASS ICE</p>
+            <p class="camiseta_texto">R$ 219,90</p>
+          </a>
+        </div>
+
+        <div class="roupa_pace_container">
+          <a href="produto.html?id=14">
+            <img
+              src="assets/jaquetas/jaqueta class rugby.jpg"
+              alt="calca preta"
+            />
+            <img
+              src="assets/jaquetas/jaqueta class rugby back.webp"
+              alt="calca preta"
+              class="hover-grid"
+            />
+            <p class="camiseta_texto">JAQUETA CLASS RUGBY BETON BRUT</p>
+            <p class="camiseta_texto">R$ 439,90</p>
+          </a>
+        </div>
+
+        <div class="roupa_pace_container">
+          <a href="produto.html?id=15">
+            <img
+              src="assets/camisetas/camiseta class pradise.webp"
+              alt="calca preta"
+            />
+            <img
+              src="assets/camisetas/camiseta class pradise back.webp"
+              alt="calca preta"
+              class="hover-grid"
+            />
+            <p class="camiseta_texto">CAMISETA CLASS PARADISE</p>
+            <p class="camiseta_texto">R$ 219,90</p>
+          </a>
+        </div>
+
+        <div class="roupa_pace_container">
+          <a href="produto.html?id=16">
+            <img
+              src="assets/calcas/calca classs stone.webp"
+              alt="calca preta"
+            />
+            <img
+              src="assets/calcas/calca class back.webp"
+              alt="calca preta"
+              class="hover-grid"
+            />
+            <p class="camiseta_texto">CALCA CLASS CLASSIC JEANS STONEWASHED</p>
+            <p class="camiseta_texto">R$ 499,90</p>
+          </a>
+        </div>
+      </div>
+    </main>
+    <script src="script/carrosel.js"></script>
+  </body>
+</html>

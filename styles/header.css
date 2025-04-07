@@ -1,0 +1,122 @@
+:root {
+  --black: #000000;
+  --white: #ffffff;
+  --gray: #808080;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: 0;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  font-family: "Bebas Neue", sans-serif;
+  position: relative;
+}
+
+.cabecalho {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 20px;
+}
+
+.header_logo {
+  font-size: 85px;
+  text-align: center;
+  line-height: 200%;
+  text-decoration: none;
+  color: var(--black);
+  font-style: italic;
+  font-family: "Jaini", system-ui;
+  margin-left: 340px;
+}
+i {
+  font-size: 25px;
+  color: var(--gray);
+}
+.header_icons {
+  display: flex;
+  gap: 14px;
+}
+
+.header_icons a:hover {
+  i {
+    color: var(--black);
+    transition: 0.8s;
+  }
+}
+
+.header_infos {
+  display: flex;
+  gap: 20px;
+  border: 0;
+  font-weight: bold;
+}
+
+.info {
+  text-decoration: none;
+  color: var(--black);
+  font-family: "Bodoni Moda SC", serif;
+  font-size: 20px;
+  font-optical-sizing: auto;
+  letter-spacing: 2px;
+}
+
+.contact {
+  text-decoration: none;
+  color: var(--black);
+  font-size: 20px;
+  font-family: "Bodoni Moda SC", sans-serif;
+  font-optical-sizing: auto;
+  letter-spacing: 2px;
+}
+
+.shop {
+  text-decoration: none;
+  color: var(--black);
+  font-size: 20px;
+  font-family: "Bodoni Moda SC", sans-serif;
+  font-optical-sizing: auto;
+  letter-spacing: 2px;
+}
+
+.cart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 100px;
+}
+
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
+}
+
+@media screen and (max-width: 1200px) {
+  .header_logo {
+    font-size: 70px;
+    margin-left: 20px;
+  }
+
+  .cabecalho {
+    gap: 10px;
+    padding: 8px;
+    flex-direction: column;
+  }
+
+  .cart {
+    margin: 0;
+  }
+}
+
+.header_infos :hover {
+  color: #808080;
+  transition: 0.3s;
+}

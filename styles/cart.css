@@ -1,0 +1,92 @@
+.carrinho {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  font-size: 20px;
+  font-family: "Roboto", serif;
+  flex-grow: 1;
+}
+
+.btn-finalizar {
+  display: block;
+  width: 100%;
+  max-width: 300px;
+  padding: 20px 30px;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-left: 735px;
+  border: 0px;
+  border-radius: 5px;
+  background-color: dimgray;
+  color: aliceblue;
+  text-align: center;
+  cursor: pointer;
+  font-family: "Roboto", serif;
+}
+
+.btn-finalizar:hover {
+  background-color: yellowgreen;
+  transition: 0.5s;
+}
+
+.btn-remover {
+  display: flex;
+  justify-content: center;
+  border-radius: 20px;
+  border: 0px;
+  color: whitesmoke;
+  cursor: pointer;
+  text-align: center;
+  margin-left: 65px;
+  align-items: center;
+  padding: 10px 10px;
+  flex-shrink: 0;
+}
+
+.btn-remover:hover {
+  background-color: darkred;
+  transition: 0.7s;
+}
+
+.img-cart {
+  display: flex;
+  margin-right: 500px;
+  height: auto;
+  max-width: 180px;
+}
+
+#total {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.titulo-carrinho {
+  display: flex;
+  color: dimgray;
+  justify-content: center;
+  margin-bottom: 50px;
+  font-size: 60px;
+}
+
+@media screen and (max-width: 1200px) {
+  .carrinho {
+    margin-left: 300px;
+    font-size: 14px;
+  }
+
+  .titulo-carrinho {
+    font-size: 40px;
+  }
+
+  #total {
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+
+  .btn-finalizar {
+    margin-left: 10px;
+  }
+}
